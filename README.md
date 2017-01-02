@@ -10,7 +10,8 @@
 * 주요 재배 지역 * 
 
 1) 보르도(Bordeaux) 
-+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cars,_Gironde.jpg/220px-Cars,_Gironde.jpg" height="300" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cars,_Gironde.jpg/220px-Cars,_Gironde.jpg" height="300" width="500"/>
+
 
 
 프랑스의 대표적인 와인 생산지역 보르도는 프랑스 남서부 전지역에 위치한다. 생산되는 포도종류에는 레드와인 종류로 까베르네쇼비뇽(Cabernet Sauvignon), 까베르네프랑(Cabernet Franc), 멜롯(Merlot), 말벡(Malbec), 쁘띠 베르도(Petit Verdot)가 있고 화이트와인 종류로는 세미용(Semillon),쇼비뇽(Sauvignon),무스까델(Muscadelle)등이 있다. 
