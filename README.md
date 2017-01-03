@@ -10,7 +10,7 @@
 * 주요 재배 지역 * 
 
 1) 보르도(Bordeaux) 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cars,_Gironde.jpg/220px-Cars,_Gironde.jpg" height="300" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cars,_Gironde.jpg/220px-Cars,_Gironde.jpg" height="250" width="400"/>
 
 
 
